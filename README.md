@@ -21,8 +21,8 @@
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96" style="background-color:red">
-          <foreignObject width="100%" height="100%">
+    <td align="center" width="96" style="background-color:green">
+          <foreignObject width="96" height="96">
             <style>
             img {
                 background: red;
