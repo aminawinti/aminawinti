@@ -22,7 +22,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96" style="background-color:green">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://www.datocms-assets.com/75941/1657707865-nextjs_20210828121943_0.png?fm=webp" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
      <td align="center" width="96">
