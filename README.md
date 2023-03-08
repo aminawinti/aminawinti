@@ -15,25 +15,19 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" style="background-color: white" />
       <br>Next.js
     </td>
      <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
       <br>Sass
     </td>
     <td align="center" width="96">
