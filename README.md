@@ -1,11 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aminawinti.aminawinti">
-<br/><br/>
+<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:awintiamine@gmail.com)](mailto:awintiamine@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaminawinti/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)
 
+<br/>
 ### Hi I'm Amin 👋
+
+<br/>
+
 🧑‍💻 I'm a software engineer, graduated from Tunisia Polytechnic School. My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
 
 🌱 I’m currently learning NextJs and React Native.
@@ -18,8 +22,8 @@
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" style="background:white;" />
+    <td align="center" width="96" style="background:red;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
      <td align="center" width="96">
