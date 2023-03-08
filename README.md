@@ -21,7 +21,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
      <td align="center" width="96">
