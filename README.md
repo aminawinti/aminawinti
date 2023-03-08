@@ -11,12 +11,12 @@
 
 🧑‍💻 I'm a software engineer, graduated from Tunisia Polytechnic School. My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
 
-🌱 I’m currently learning NextJs and React Native.
+🌱 I’m currently learning Next.js and React Native.
 
 <h2 align="left" id="tech">Tech Stack</h2>
 
 <table>
-  <tr>
+  <tr style="background-color:#FF0000">
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
