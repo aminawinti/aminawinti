@@ -22,15 +22,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96" style="background-color:green">
-          <foreignObject width="96" height="96">
-            <style>
-            img {
-                background: red;
-            }
-            </style>
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" />
-    </foreignObject>
-        
       <br>Next.js
     </td>
      <td align="center" width="96">
