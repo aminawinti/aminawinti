@@ -9,7 +9,8 @@
 
 <br/>
 
-I'm a software engineer🧑‍💻. Graduated from Tunisia Polytechnic School. My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
+I'm a software engineer🧑‍💻.
+<br/>My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
 
 🌱 I’m currently learning Next.js and React Native.
 
