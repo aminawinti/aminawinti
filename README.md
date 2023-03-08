@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aminawinti.aminawinti">
-<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:awintiamine@gmail.com)](mailto:awintiamine@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaminawinti/)
@@ -9,81 +8,64 @@
 
 <br/>
 
-🧑‍💻 I'm a software engineer, graduated from Tunisia Polytechnic School. My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
+I'm a software engineer🧑‍💻. Graduated from Tunisia Polytechnic School. My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
 
 🌱 I’m currently learning Next.js and React Native.
 
 <h2 align="left" id="tech">Tech Stack</h2>
 
 <table>
-  <tr style="background-color:#FF0000">
-    <td align="center" width="96">
+  <tr>
+    <td align="center" width="120" height="120">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="200">
-        <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-     <td align="center" width="96">
+     <td align="center" width="120" height="120">
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/react-original.svg" width="48" height="48" alt="React" />
       <br>React
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/sass-original.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
+    <td align="center" width="120" height="120">
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="node.js" />
-      </a>
-      <br>Node JS
+      <br>Node.js
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+        <td align="center" width="120" height="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="48" height="48" alt="Express.js" />
+      <br>Express.js
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="48" height="48" alt="Express.js" />
-      </a>
-      <br>Express JS
+    <td align="center" width="120" height="120"> 
+        <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://svgshare.com/i/ogF.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
+    <td align="center" width="120" height="120"> 
+        <img src="https://v4.material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
+      <br>Material UI
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+    <td align="center" width="120" height="120">
+      <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
-   <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
+    <td align="center" width="120" height="120">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/react-original.svg" width="48" height="48" alt="React Native" />
+      <br>React Native
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
+    <td align="center" width="120" height="120">
+        <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
+<td align="center" width="120" height="120">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
-  
+       <td align="center" width="120" height="120">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+        <td align="center" width="120" height="120">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
   </tr>
 </table>
 <br></br>
