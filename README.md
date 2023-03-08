@@ -5,14 +5,11 @@
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E.svg?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/aminawinti)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)
 
-### Hi I'm Amin 👋
-
+### Hi I'm Amin 👋, Software Engineer 🧑‍💻
 <br/>
-
-I'm a software engineer🧑‍💻.
-<br/>My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
-
-🌱 I’m currently learning Next.js and React Native.
+My tech stack involves Typescript, React, Node.js, Express.js, MongoDB, PostgreSQL, and AWS.
+<br/>
+I’m currently learning Next.js and React Native 🌱
 
 <h2 align="left" id="tech">Tech Stack</h2>
 
