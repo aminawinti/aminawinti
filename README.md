@@ -21,10 +21,8 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="148" height="148" alt="Next js" />
-      </a>
-      <br>JavaScript
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -40,7 +38,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="node js" />
+        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48" height="48" alt="node.js" />
       </a>
       <br>Node JS
     </td>
@@ -52,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="48" height="48" alt="Express js" />
+        <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="48" height="48" alt="Express.js" />
       </a>
       <br>Express JS
     </td>
