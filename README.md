@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaminawinti/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)
 
-<br/>
 ### Hi I'm Amin 👋
 
 <br/>
@@ -22,7 +21,7 @@
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96" style="background:red;">
+    <td align="center" width="96" style="background-color:red">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
