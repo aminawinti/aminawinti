@@ -21,7 +21,7 @@
         <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96" style="background-color:green">
+    <td align="center" width="200">
         <img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
