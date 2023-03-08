@@ -69,3 +69,8 @@ I'm a software engineer🧑‍💻. Graduated from Tunisia Polytechnic School. M
   </tr>
 </table>
 <br></br>
+
+<h2 align="left" id="tech">My Codewars Badge</h2>
+<a href="https://www.codewars.com/users/aminawinti" target="_self">
+  ![image](https://www.codewars.com/users/aminawinti/badges/large)
+</a>
