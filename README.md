@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="48" height="48" alt="Next js" />
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next js" />
       </a>
       <br>JavaScript
     </td>
