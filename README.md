@@ -19,7 +19,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" style="background-color: white" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="48" height="48" alt="Next.js" style="background:white;" />
       <br>Next.js
     </td>
      <td align="center" width="96">
