@@ -69,6 +69,12 @@ I’m currently learning Next.js and React Native 🌱
 </table>
 <br></br>
 
-<h2 align="left" id="tech">My Codewars Badge</h2>
+<h2 align="left">My Codewars Badge</h2>
 
 [![image](https://www.codewars.com/users/aminawinti/badges/large)](https://www.codewars.com/users/aminawinti)
+
+<h2 align="left">My LeetCode Stats</h2>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AminAwinti?theme=dark&font=Roboto%20Flex)](https://leetcode.com/aminawinti)
+
+ 
