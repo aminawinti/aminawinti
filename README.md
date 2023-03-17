@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aminawinti.aminawinti">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:awintiamine@gmail.com)](mailto:awintiamine@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/medaminawinti/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aminawinti/)
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E.svg?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/aminawinti)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)](https://api.whatsapp.com/send?phone=0021656132172&text=Hello!👋)
 
