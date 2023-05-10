@@ -75,6 +75,6 @@ I’m currently learning Next.js and React Native 🌱
 
 <h2 align="left">My LeetCode Stats</h2>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/AminAwinti?theme=dark&font=Roboto%20Flex)](https://leetcode.com/aminawinti)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AminAwinti?theme=dark&font=Roboto%20Flex&ext=heatmap)](https://leetcode.com/aminawinti)
 
  
