@@ -58,7 +58,7 @@ I’m currently learning Next.js and React Native 🌱
       <br>Python
     </td>
        <td align="center" width="120" height="120">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
         <td align="center" width="120" height="120">
